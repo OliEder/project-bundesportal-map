@@ -80,7 +80,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buddyboardgames.com\/uno?room=YnVuZGVzcG9ydGFsLWNocmlzdG0="
+                 "value":"https:\/\/buddyboardgames.com\/uno"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -113,7 +113,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; autoplay"
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,7 +171,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/ham_ast_mas.mp3"
+                 "value":".\/x-mas-radio-playlist.m3u"
                 }],
          "type":"tilelayer",
          "visible":true,
