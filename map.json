@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/garticphone.com\/de\/?c=0070995d4a"
+                 "value":"https:\/\/garticphone.com\/de\/?c=0080ca4145"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -32,7 +32,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Spiele eine Runde Gartic Phone mit uns"
                 }],
@@ -141,7 +141,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsi3"
+                 "value":"kochen_mit_sandra"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -159,7 +159,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsi4"
+                 "value":"kochen_mit_sandra"
                 }],
          "type":"tilelayer",
          "visible":true,
