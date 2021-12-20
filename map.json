@@ -113,7 +113,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; autoplay"
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,7 +171,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"x-mas-radio-playlist.m3u"
+                 "value":".\/x-mas-radio-playlist.m3u"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,7 +206,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen;"
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
