@@ -52,7 +52,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buddyboardgames.com\/yahtzee?room=QnVuZGVzcG9ydGFsLTI="
+                 "value":"https:\/\/buddyboardgames.com\/yahtzee"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
