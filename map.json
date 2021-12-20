@@ -113,7 +113,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"autoplay"
+                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen;"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,7 +206,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"autoplay"
+                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen;"
                 }],
          "type":"tilelayer",
          "visible":true,
